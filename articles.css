@@ -1,0 +1,26 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Code+Pro';
+body{width: 100%;
+background: url(img/bg3.jpg) no-repeat center fixed; -webkit-background-size: cover;
+font-family: 'Roboto Mono', monospace;}
+article{width: 950px;
+	margin: 200px auto auto auto;
+	background-color: #fff;
+padding: 0 20px 0 20px;}
+h1{
+	position: relative;
+	top: -55px;
+	color: #fff;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 50px;
+	background-color: #000;
+	padding-left: 20px;
+}
+#img{
+	width: 950px;
+	height: 300px;
+	background: url(img/bg6.jpg) no-repeat center fixed; -webkit-background-size: cover;
+}
+#relative{
+	position: relative;
+	top: -75px;
+}

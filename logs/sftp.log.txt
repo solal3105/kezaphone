@@ -1,0 +1,22 @@
+Aug 10 22:33:49 10.71.50.13 u84364027 Connection from 10.71.50.13 port 53232
+Aug 10 22:33:49 10.71.50.13 u84364027 Accepted password for u84364027 from 10.71.50.13 port 53232 ssh2
+Aug 10 20:33:49 10.71.50.13 u84364027 SFTP session started in /kunden/homepages/11/d617759175/htdocs
+Aug 10 20:33:49 10.71.50.13 u84364027 Client version 3
+Aug 10 22:33:57 10.71.50.13 u84364027 Connection from 10.71.50.13 port 56290
+Aug 10 22:33:57 10.71.50.13 u84364027 Accepted password for u84364027 from 10.71.50.13 port 56290 ssh2
+Aug 10 22:33:57 10.71.50.13 u84364027 Connection from 10.71.50.13 port 56292
+Aug 10 22:33:57 10.71.50.13 u84364027 Accepted password for u84364027 from 10.71.50.13 port 56292 ssh2
+Aug 10 20:33:57 10.71.50.13 u84364027 SFTP session started in /kunden/homepages/11/d617759175/htdocs
+Aug 10 20:33:57 10.71.50.13 u84364027 Client version 3
+Aug 10 20:33:57 10.71.50.13 u84364027 SFTP session started in /kunden/homepages/11/d617759175/htdocs
+Aug 10 20:33:57 10.71.50.13 u84364027 Client version 3
+Aug 10 22:35:23 10.71.50.13 u84364027 Connection closed by 10.71.50.13
+Aug 10 22:35:23 10.71.50.13 u84364027 Connection closed by 10.71.50.13
+Aug 10 22:35:55 10.71.50.13 u84364027 Connection from 10.71.50.13 port 48470
+Aug 10 22:35:55 10.71.50.13 u84364027 Accepted password for u84364027 from 10.71.50.13 port 48470 ssh2
+Aug 10 22:35:55 10.71.50.13 u84364027 Connection from 10.71.50.13 port 48472
+Aug 10 22:35:55 10.71.50.13 u84364027 Accepted password for u84364027 from 10.71.50.13 port 48472 ssh2
+Aug 10 20:35:55 10.71.50.13 u84364027 SFTP session started in /kunden/homepages/11/d617759175/htdocs
+Aug 10 20:35:55 10.71.50.13 u84364027 Client version 3
+Aug 10 20:35:55 10.71.50.13 u84364027 SFTP session started in /kunden/homepages/11/d617759175/htdocs
+Aug 10 20:35:55 10.71.50.13 u84364027 Client version 3
